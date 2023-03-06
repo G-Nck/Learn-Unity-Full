@@ -1,0 +1,16 @@
+{
+    "name": "Learn.Component.TransformFeatures",
+    "rootNamespace": "Learn.Component.TransformFeatures",
+    "references": [
+        "GUID:7564f6c6667f99a49b4ab27c2c29cea2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
