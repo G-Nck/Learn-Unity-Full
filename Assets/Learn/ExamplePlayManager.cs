@@ -4,15 +4,12 @@ using UnityEngine;
 
 namespace Learn
 {
-    public class RenderSettingExample : MonoBehaviour
+    public class ExamplePlayManager : MonoBehaviour
     {
-        [SerializeField]
-        Material skybox;
-
         // Start is called before the first frame update
         void Start()
         {
- 
+        
         }
 
         // Update is called once per frame

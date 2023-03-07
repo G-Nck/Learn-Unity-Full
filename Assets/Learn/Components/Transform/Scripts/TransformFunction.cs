@@ -8,7 +8,7 @@ namespace Learn.Component.TransformFeatures
     {
         [SerializeField]
         protected Transform targetTransform;
-
+        public Transform TargetTransform { get { return targetTransform; } }
 
     }
 }
