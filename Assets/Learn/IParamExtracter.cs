@@ -4,11 +4,12 @@ using UnityEngine;
 
 namespace Learn
 {
-    public interface IParamExtracter
+    public interface IParamExtracter<T>
     {
-        public void Extract()
-        {
 
+        public void Extract(out T value)
+        {
+            value = default(T);    
         }
 
     }

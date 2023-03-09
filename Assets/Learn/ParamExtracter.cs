@@ -6,6 +6,8 @@ namespace Learn
 {
     public class ParamExtracter : MonoBehaviour
     {
+
+
         void Start()
         {
         
@@ -14,13 +16,11 @@ namespace Learn
         // Update is called once per frame
         void Update()
         {
-        
         }
 
 
         public void ExtractParam<T>(T val)
         {
-
         }
     }
 }
