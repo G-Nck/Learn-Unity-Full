@@ -14,7 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: Sample
   m_TableCollectionNameGuidString: 5d009dcbf5bc5c742bd00406f3048ddf
-  m_Entries: []
+  m_Entries:
+  - m_Id: 237270660784128
+    m_Key: SAMPLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260443578015744
+    m_Key: MY_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260649413484544
+    m_Key: BASIC_INTRODUCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297364475846656
+    m_Key: SMART_SAMPLE
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
